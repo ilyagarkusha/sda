@@ -1,4 +1,4 @@
-package advanced;
+package advanced.oop;
 
 public class Dog {
     private String name;
